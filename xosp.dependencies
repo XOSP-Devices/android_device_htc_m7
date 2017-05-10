@@ -13,9 +13,9 @@
 	},
 	{
 		"remote": "XOSPD",
-		"repository": "SlimRoms/kernel_htc_msm8960",
+		"repository": "AICP/kernel_htc_msm8960",
 		"target_path": "kernel/htc/msm8960",
-		"revision": "ng7.1"
+		"revision": "n7.1"
 	},
 	{
 		"remote": "XOSPD",
