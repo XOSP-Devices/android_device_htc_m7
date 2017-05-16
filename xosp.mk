@@ -13,3 +13,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 # XOSP release type
 RELEASE_TYPE := XOSP_OFFICIAL
+
+# Use Chromium
+USE_CHROMIUM := true
