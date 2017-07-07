@@ -20,8 +20,8 @@
 		"revision": "xosp-n-rebase"
 	},
 	{
-		"repository": "mdmower/proprietary_vendor_htc",
+		"repository": "AICP/proprietary_vendor_htc",
 		"target_path": "vendor/htc",
-		"revision": "cm-14.1"
+		"revision": "n7.1"
 	}
 ]
